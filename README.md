@@ -19,7 +19,7 @@ Run the following commands in your terminal to set up and run the project:
 
 # Clone the repository
 ```
-git clone [https://github.com/Gracyclub/Mataji-python-sketch.git](https://github.com/Gracyclub/Mataji-python-sketch.git)
+git clone [https://github.com/abhinav87976-code/Mataji-python-sketch.git](https://github.com/abhinav87976-code/Mataji-python-sketch.git)
 ```
 
 # Enter project directory
